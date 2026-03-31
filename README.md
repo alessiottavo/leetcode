@@ -1,7 +1,7 @@
 # leetcode
 Solutions to LeetCode problems in Python. Tracking progress and approaches!
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=alessiottavo&theme=dark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-alessiottavo-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/alessiottavo)
 
 ## Adding a new exercise
 
