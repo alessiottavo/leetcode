@@ -1,6 +1,8 @@
 # leetcode
 Solutions to LeetCode problems in Python. Tracking progress and approaches!
 
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=alessiottavo&theme=dark)
+
 ## Adding a new exercise
 
 1. Create the solution file in the relevant category package, e.g.:
