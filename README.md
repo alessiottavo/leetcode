@@ -34,3 +34,7 @@ Solutions to LeetCode problems in Python. Tracking progress and approaches!
    ```bash
    python3 -m pytest --tb=short -v
    ```
+### Lessons Learned
+* read instructions carefully
+* problem constraints often point to solution
+* consider the advantages sorting gives (ignore first element in duplicates, no need for maps etc etc)
